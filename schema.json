@@ -1,0 +1,27 @@
+{
+    "id": "book_001",
+    "title": "Diccionario Atenea Ingles - Español Español -Ingles",
+    "authors": [
+        "Atenea"
+    ],
+    "year": 2011,
+    "publisher": "Atenea",
+    "language": "english-spanish",
+    "isbn": "9789588464251",
+    "pages": 656,
+    "categories": [
+        "dictionary"
+    ],
+    "tags": [
+        "languages",
+        "dictionary"
+    ],
+    "status": "unread",
+    "rating": 5,
+    "source": "purchased",
+    "url": "https://www.editorialatenea.com.co/producto/diccionario-atenea-espanol-ingles/",
+    "image_url": "https://www.editorialatenea.com.co/wp-content/uploads/2018/05/DICCIONARIO-ATENEA-Ingles-Espa%C3%B1ol.jpg",
+    "notes": "very old book",
+    "date_added": "2026-04-06",
+    "date_read": ""
+}

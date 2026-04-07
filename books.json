@@ -1,0 +1,712 @@
+{
+    "books": [
+        {
+            "id": "book_001",
+            "title": "Diccionario Atenea Ingles - Español Español -Ingles",
+            "authors": [
+                "Atenea"
+            ],
+            "year": 2011,
+            "publisher": "Atenea",
+            "language": "english-spanish",
+            "isbn": "9789588464251",
+            "pages": 656,
+            "categories": [
+                "dictionary"
+            ],
+            "tags": [
+                "languages",
+                "dictionary"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.editorialatenea.com.co/producto/diccionario-atenea-espanol-ingles/",
+            "image_url": "https://www.editorialatenea.com.co/wp-content/uploads/2018/05/DICCIONARIO-ATENEA-Ingles-Espa%C3%B1ol.jpg",
+            "notes": "very old book",
+            "date_added": "2026-04-06",
+            "date_read": ""
+        },
+        {
+            "title": "Pure Worship Of Jehovah Restored At Last!",
+            "authors": [
+                "Watch Tower Bible and Tract Society of Pennsylvania\nNon-profit organization"
+            ],
+            "year": 2018,
+            "publisher": "Watch Tower Bible and Tract Society of Pennsylvania\nNon-profit organization\n",
+            "language": "English",
+            "isbn": "9781949121889",
+            "pages": 240,
+            "categories": [
+                "Religion",
+                "Faith"
+            ],
+            "tags": [
+                "Religion",
+                "jw"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://books.google.com.co/books/about/Pure_Worship_of_Jehovah_Restored_at_Last.html?id=IgiQuwEACAAJ&redir_esc=y",
+            "image_url": "https://wol.jw.org/en/wol/mp/r1/lp-e/rr/2018/6",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_002"
+        },
+        {
+            "title": "The modernized Italian game for white",
+            "authors": [
+                "Nicolai Kalinichenko"
+            ],
+            "year": 2021,
+            "publisher": "Thinkers Publishing",
+            "language": "English",
+            "isbn": "9789464201079",
+            "pages": 384,
+            "categories": [
+                "Chess"
+            ],
+            "tags": [
+                "Games"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://thinkerspublishing.com/product/the-modernized-italian-game-for-white/",
+            "image_url": "https://thinkerspublishing.com/wp-content/uploads/2021/03/Modernized-Italian-Game-01032134036-scaled.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_003"
+        },
+        {
+            "title": "Winning with the Slow (But Venomous!) Italian",
+            "authors": [
+                "Georgios Souleidis",
+                "Karstern Muller"
+            ],
+            "year": 2016,
+            "publisher": "New In Chess",
+            "language": "English",
+            "isbn": "9789056916749",
+            "pages": 234,
+            "categories": [
+                "Chess"
+            ],
+            "tags": [
+                "Games"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://books.google.com.co/books/about/Winning_with_the_Slow_but_Venomous_Itali.html?id=HokfDgAAQBAJ&source=kp_book_description&redir_esc=y",
+            "image_url": "https://books.google.com.co/books/publisher/content?id=HokfDgAAQBAJ&pg=PA2&img=1&zoom=3&hl=en&sig=ACfU3U00BNzv7nfumgrAD1_erPaJVV0P0A&w=1280",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_004"
+        },
+        {
+            "title": "Python Machine Learning",
+            "authors": [
+                "Sebastian Raschka",
+                "Vahid Mirjalili"
+            ],
+            "year": 2019,
+            "publisher": "Marcombo",
+            "language": "Spanish",
+            "isbn": "9788426727206",
+            "pages": 0,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "machine learning",
+                "programming",
+                "programming languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/Papel/9788426727206/Python+Machine+Learning",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9788426727206_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_005"
+        },
+        {
+            "title": "Machine Learning con PyTorch y Sckit-Learn",
+            "authors": [
+                "Sebastian Raschka",
+                "Vahid Mirjalili",
+                "Yuhi Liu"
+            ],
+            "year": 2023,
+            "publisher": "Alpha Editorial",
+            "language": "spanish",
+            "isbn": "9789587788891",
+            "pages": 771,
+            "categories": [
+                "programming"
+            ],
+            "tags": [
+                "machine learning",
+                "python",
+                "programming"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/Papel/9789587788891/Machine+Learning+Con+Pytorch+Y+Scikit-Learn",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587788891_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_006"
+        },
+        {
+            "title": "The Modernized Queen's Gambit Declined: A Dynamic Repertoire for Black",
+            "authors": [
+                "Luis Rodi"
+            ],
+            "year": 2024,
+            "publisher": "Thinkers Publishing",
+            "language": "English",
+            "isbn": "9789464201970",
+            "pages": 600,
+            "categories": [
+                "Chess"
+            ],
+            "tags": [
+                "Games",
+                "Chess"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://thinkerspublishing.com/product/the-queens-gambit-declined-a-dynamic-repertoire-for-black-louis-rodi/",
+            "image_url": "https://thinkerspublishing.com/wp-content/uploads/2024/03/QGD-FINAL-250224-scaled.jpg",
+            "notes": "Hard Cover",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_007"
+        },
+        {
+            "title": "Your Jungle Guide to Chess Tactics: Sharpen Your Tactical Skills",
+            "authors": [
+                "Peter Prohaszka"
+            ],
+            "year": 2021,
+            "publisher": "Thinkers Publishing",
+            "language": "English",
+            "isbn": "9789464201062",
+            "pages": 518,
+            "categories": [
+                "Chess",
+                "Tactics"
+            ],
+            "tags": [
+                "Games",
+                "Puzzles",
+                "Chess"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://thinkerspublishing.com/product/your-jungle-guide-to-chess-tactics-sharpen-your-tactical-skills/",
+            "image_url": "https://thinkerspublishing.com/wp-content/uploads/2020/12/Your-Jungle-Guide-171120-scaled.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_008"
+        },
+        {
+            "title": "Programación En GO",
+            "authors": [
+                "Mario Macías Lloret"
+            ],
+            "year": 2021,
+            "publisher": "Alpha editorial",
+            "language": "Spanish",
+            "isbn": "9789587786804",
+            "pages": 246,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "programming",
+                "programming Languages"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/Papel/9789587786804/Programaci%C3%B3n+En+Go",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587786804_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_009"
+        },
+        {
+            "title": "Programación Orientada a Objetos en Java",
+            "authors": [
+                "Francisco Blasco"
+            ],
+            "year": 2019,
+            "publisher": "Ra-Ma",
+            "language": "Spanish",
+            "isbn": "9789587921007",
+            "pages": 588,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Java",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/programacion-orientada-a-objetos-en-java/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2019/10/Programacion-orientada-Java_DIG.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_010"
+        },
+        {
+            "title": "Domine JavaScript",
+            "authors": [
+                "Pablo Fernández Casado"
+            ],
+            "year": 2021,
+            "publisher": "Ra-Ma",
+            "language": "Spanish",
+            "isbn": "9789587923018",
+            "pages": 436,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "JavaScript",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/domine-javascript-2/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2021/10/9789587923025.png.webp",
+            "notes": "4a Edición",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_011"
+        },
+        {
+            "title": "DESARROLLO WEB CON REACT",
+            "authors": [
+                "ALTADILL IZURA",
+                "PELLO XABIER"
+            ],
+            "year": 2019,
+            "publisher": "\nANAYA MULTIMEDIA",
+            "language": "Spanish",
+            "isbn": "\n9788441541634",
+            "pages": 338,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Web",
+                "Web Development",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.libreriacanaima.com/libro/desarrollo-web-con-react_571285",
+            "image_url": "https://www.libreriacanaima.com/imagenes/9788441/978844154163.JPG",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_012"
+        },
+        {
+            "title": "SQL Fácil",
+            "authors": [
+                "Pere Chardi García"
+            ],
+            "year": 2014,
+            "publisher": "Marcombo",
+            "language": "Spanish",
+            "isbn": "9788426721006",
+            "pages": 384,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "SQL",
+                "Programming Languages",
+                "Data",
+                "Databases"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.marcombo.com/libro/libros-tecnicos-de-arte-y-cientificos/informatica-libros-tecnicos-y-cientificos/programacion-e-inteligencia-artificial-informatica/sql-facil/?srsltid=AfmBOop3RZG17RQ-paDRfLemDVldJtpQ3wDIqtOaF3cSPNFsVM_UfL_B",
+            "image_url": "https://www.marcombo.com/wp-content/uploads/2023/11/9788426721006-730x1024.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_013"
+        },
+        {
+            "title": "EXCEL 2021. Curso práctico paso a paso",
+            "authors": [
+                "Leonel Yescas"
+            ],
+            "year": 2022,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587923308",
+            "pages": 402,
+            "categories": [
+                "Excel"
+            ],
+            "tags": [
+                "Excel",
+                "Excel 2021"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/excel-2021-curso-practico-paso-a-paso/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2022/01/Excel2021-scaled.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_014"
+        },
+        {
+            "title": "Aplicaciones gráficas con Python 3",
+            "authors": [
+                "Alberto Cuevas Álvarez"
+            ],
+            "year": 2018,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587629026",
+            "pages": 630,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "programming",
+                "Python",
+                "GUI",
+                "PyQt",
+                "Matplotlib"
+            ],
+            "status": "unread",
+            "rating": 3,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/aplicaciones-graficas-con-python-3/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2018/10/Aplicaciones-graficas-con-phyton-scaled.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_015"
+        },
+        {
+            "title": "Desarrollo De Interfaces Gráficas En Python 3 Con Tkinter",
+            "authors": [
+                "Tomás Domínguez Mínguez"
+            ],
+            "year": 2022,
+            "publisher": "Alpha Editorial",
+            "language": "Spanish",
+            "isbn": "9789587787344",
+            "pages": 463,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Python",
+                "Tkinter",
+                "GUI"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/Papel/9789587787344/Desarrollo+De+Interfaces+Gr%C3%A1ficas+En+Python+3+Con+Tkinter",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587787344_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_016"
+        },
+        {
+            "title": "Machine Learning y Deep Learning. Usando python, scikit y keras",
+            "authors": [
+                "Jesús Bobadilla"
+            ],
+            "year": 2021,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587921458",
+            "pages": 294,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Machine learning",
+                "Python",
+                "keras",
+                "Deep learning"
+            ],
+            "status": "unread",
+            "rating": 3,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/machine-learning-y-deep-learning-usando-python-scikit-y-keras/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2021/02/Machine-Learniing_DIG.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_017"
+        },
+        {
+            "title": "Hacking ético con herramientas python. Curso práctico",
+            "authors": [
+                "José Manuel Ortega Candel"
+            ],
+            "year": 2018,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587629064",
+            "pages": 290,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Python",
+                "Hacking"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/hacking-etico-con-herramientas-python-curso-practico/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2018/10/Hacking-etico-con-herramientas-scaled.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_018"
+        },
+        {
+            "title": "Python A Fondo",
+            "authors": [
+                "Óscar Ramírez Jiménez"
+            ],
+            "year": 2021,
+            "publisher": "Alpha Editorial",
+            "language": "Spanish",
+            "isbn": "9789587787221",
+            "pages": 631,
+            "categories": [
+                "Programmin"
+            ],
+            "tags": [
+                "Programming",
+                "Python",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/Papel/9789587787221/Python+A+Fondo",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587787221_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_019"
+        },
+        {
+            "title": "Introducción a la programación con Python",
+            "authors": [
+                "Luis Eduardo Muñoz Guerrero",
+                "Omar Iván Trejos Buriticá"
+            ],
+            "year": 2020,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587922141",
+            "pages": 187,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Python",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/introduccion-a-la-programacion-con-python/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2020/10/Introd_Programac_PYTHON-scaled.jpg.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_020"
+        },
+        {
+            "title": "“Sing Out Joyfully” to Jehovah",
+            "authors": [
+                "Watch Tower Bible and Tract Society of Pennsylvania"
+            ],
+            "year": 2016,
+            "publisher": "Watch Tower Bible and Tract Society of Pennsylvania",
+            "language": "English",
+            "isbn": "0",
+            "pages": 200,
+            "categories": [
+                "Religion"
+            ],
+            "tags": [
+                "Religion",
+                "Songs"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.jw.org/en/library/music-songs/sing-out-joyfully/",
+            "image_url": "https://cms-imgp.jw-cdn.org/img/p/sjjls/E/pt/sjjls_E_md.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_021"
+        },
+        {
+            "title": "Guía Práctica Macros Aplicaciones VBA con Excel",
+            "authors": [
+                "Manuel Ángel Torres Remón"
+            ],
+            "year": 2015,
+            "publisher": "Editorial Macro",
+            "language": "Spanish",
+            "isbn": "9786123042745",
+            "pages": 176,
+            "categories": [
+                "Excel",
+                "Programming"
+            ],
+            "tags": [
+                "Excel",
+                "Programing",
+                "Automation",
+                "VBA",
+                "Macros"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://editorialmacro.com/catalogo/g-p-macros-aplicaciones-vba-con-excel/",
+            "image_url": "https://editorialmacro.com/wp-content/uploads/2021/01/9786123042745-1.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_022"
+        },
+        {
+            "title": "Aprende A Programar Con Kotlin",
+            "authors": [
+                "José Dimas Luján Castillo"
+            ],
+            "year": 2018,
+            "publisher": "Alpha Editorial",
+            "language": "Spanish",
+            "isbn": "9789587784008",
+            "pages": 234,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Kotlin",
+                "Programming",
+                "Programming Languages"
+            ],
+            "status": "unread",
+            "rating": 3,
+            "source": "purchased",
+            "url": "https://www.alpha-editorial.com/E-book/9789587784008/Aprende+A+Programar+Con+Kotlin",
+            "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587784008_1.jpg?id_com=1164",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_023"
+        },
+        {
+            "title": "Python 3. Curso práctico",
+            "authors": [
+                "Alberto Cuevas Álvarez"
+            ],
+            "year": 2017,
+            "publisher": "Ediciones de la U",
+            "language": "Spanish",
+            "isbn": "9789587626940",
+            "pages": 557,
+            "categories": [
+                "Programming"
+            ],
+            "tags": [
+                "Programming",
+                "Python",
+                "Programming Languages"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://edicionesdelau.com/producto/python-3-curso-practico/",
+            "image_url": "https://edicionesdelau.com/wp-content/uploads/2019/01/9789587626940.png.webp",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_024"
+        },
+        {
+            "title": "Apocalipsis: el fin de los tiempos : Comentarios",
+            "authors": [
+                "David Gómez Sánchez"
+            ],
+            "year": 2012,
+            "publisher": "Independiente",
+            "language": "Spanish",
+            "isbn": "9789584614216",
+            "pages": 491,
+            "categories": [
+                "Religion"
+            ],
+            "tags": [
+                "Commentary",
+                "Revelation",
+                "Bible Commentary"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://consultas.bibliovalle.gov.co/bib/83284",
+            "image_url": "https://m.media-amazon.com/images/I/81Ky1gQPEyL._UF1000,1000_QL80_.jpg",
+            "notes": "",
+            "date_added": "2026-04-06",
+            "date_read": "",
+            "id": "book_025"
+        }
+    ]
+}
