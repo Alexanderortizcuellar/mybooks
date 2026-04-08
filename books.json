@@ -146,11 +146,11 @@
             ],
             "year": 2023,
             "publisher": "Alpha Editorial",
-            "language": "spanish",
+            "language": "Spanish",
             "isbn": "9789587788891",
             "pages": 771,
             "categories": [
-                "programming"
+                "Programming"
             ],
             "tags": [
                 "machine learning",
@@ -520,7 +520,7 @@
             "isbn": "9789587787221",
             "pages": 631,
             "categories": [
-                "Programmin"
+                "Programming"
             ],
             "tags": [
                 "Programming",
@@ -707,6 +707,665 @@
             "date_added": "2026-04-06",
             "date_read": "",
             "id": "book_025"
+        },
+        {
+            "title": "NIV Biblical Theology Study Bible",
+            "authors": [
+                "Zondervan"
+            ],
+            "year": 2018,
+            "publisher": "Zondervan",
+            "language": "English",
+            "isbn": "9780310450405",
+            "pages": 2592,
+            "categories": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Theology",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://staging.zondervan.hcusweb.com/p/biblical-theology/",
+            "image_url": "https://s48920.pcdn.co/p/wp-content/uploads/sites/2/2018/06/25142509/BTS_mobile_center.png",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_026"
+        },
+        {
+            "title": "ESV Study Bible",
+            "authors": [
+                "Crossway"
+            ],
+            "year": 2008,
+            "publisher": "Crossway",
+            "language": "English",
+            "isbn": "97814335-02415",
+            "pages": 2752,
+            "categories": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "tags": [
+                "Theology",
+                "Study Bible",
+                "Religion"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.crossway.org/bibles/esv-study-bible-case/",
+            "image_url": "https://static.crossway.org/studio-files/media/c2cc60f498d8b0274a2c823174ea7ddc2479a4c6.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_027"
+        },
+        {
+            "title": "CSB Baker Illustrated Study Bible",
+            "authors": [
+                "Baker Publishing Group"
+            ],
+            "year": 2018,
+            "publisher": "Baker Publishing Group",
+            "language": "English",
+            "isbn": "9780801076176",
+            "pages": 2640,
+            "categories": [
+                "Bible",
+                "Study Bible",
+                "Religion"
+            ],
+            "tags": [
+                "Bible",
+                "Study Bible",
+                "Theology"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://books.google.com.co/books/about/CSB_Baker_Illustrated_Study_Bible_Brown.html?id=bNCFtAEACAAJ&redir_esc=y",
+            "image_url": "https://m.media-amazon.com/images/I/71l8cImgBNL._UF1000,1000_QL80_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_028"
+        },
+        {
+            "title": "Biblia de estudio, Mundo Hispano",
+            "authors": [
+                "Editorial Mundo Hispano - CBP"
+            ],
+            "year": 2020,
+            "publisher": "Editorial Mundo Hispano - CBP",
+            "language": "Spanish",
+            "isbn": "9780311488902",
+            "pages": 2784,
+            "categories": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.bibliadeestudiomundohispano.com/",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/large/10599.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_029"
+        },
+        {
+            "title": "Biblia palabra de Aliento",
+            "authors": [
+                "Max Lucado"
+            ],
+            "year": 2021,
+            "publisher": "Vida",
+            "language": "Spanish",
+            "isbn": "9780829770469",
+            "pages": 1984,
+            "categories": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://staging.editorialhccp.hcusweb.com/r/biblia-palabra-de-aliento/",
+            "image_url": "https://libreriaparadoja.com.ar/wp-content/uploads/2025/03/Biblia-NVI-Palabra-de-aliento-Tapa-dura-1.webp",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_030"
+        },
+        {
+            "title": "Biblia de Estudio Matthew Henry",
+            "authors": [
+                "Vida",
+                "Alfonso Ropero (Editor General)"
+            ],
+            "year": 2019,
+            "publisher": "Clie",
+            "language": "Spanish",
+            "isbn": "9788482678375",
+            "pages": 2208,
+            "categories": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Study Bible",
+                "Bible",
+                "Theology"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://staging.editorialhccp.hcusweb.com/r/biblia-matthew-henry/",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/original/37483.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_031"
+        },
+        {
+            "title": "Biblia de Estudio de la Reforma",
+            "authors": [
+                "R.C. Sproul"
+            ],
+            "year": 2020,
+            "publisher": "Poiema",
+            "language": "Spanish",
+            "isbn": "9781642892550",
+            "pages": 2568,
+            "categories": [
+                "Bible",
+                "Study Bible",
+                "Religion"
+            ],
+            "tags": [
+                "Religion",
+                "Study Bible",
+                "Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.bibliadeestudiodelareforma.com/",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/large/41389.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_032"
+        },
+        {
+            "title": "Biblia de Estudio Spurgeon",
+            "authors": [
+                "Holman"
+            ],
+            "year": 2019,
+            "publisher": "Holman",
+            "language": "Spanish",
+            "isbn": "9781535915182",
+            "pages": 1704,
+            "categories": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://bibliaestudiospurgeon.bhpublishinggroup.com/",
+            "image_url": "https://www.sepaweb.org/wp-content/uploads/Biblia-estudio-Spurgeon-.jpg",
+            "notes": "Notas de estudio elaboradas a partir de sermones de Spurgeon",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_033"
+        },
+        {
+            "title": "Biblia de Estudio Palabra Clave",
+            "authors": [
+                "Patmos"
+            ],
+            "year": 2017,
+            "publisher": "Patmos",
+            "language": "Spanish",
+            "isbn": "9781588027511",
+            "pages": 2584,
+            "categories": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Religion",
+                "Study Bible",
+                "Greek",
+                "Hebrew",
+                "Languages"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-de-estudio-palabra-clavervr60-piel-especialnegro?srsltid=AfmBOop8SwaAANopEGKqDN6hK9h-8SDv_HAooCk9ZtKsOqjr5PwHx-zo",
+            "image_url": "https://www.mitiendaevangelica.com/portadas/9781588027511.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_034"
+        },
+        {
+            "title": "Santa Biblia de estudio arqueológica NVI",
+            "authors": [
+                "Zondervan"
+            ],
+            "year": 2009,
+            "publisher": "Zondervan",
+            "language": "Spanish",
+            "isbn": "9780829750133",
+            "pages": 2336,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Religion",
+                "Study Bible",
+                "archaeology",
+                "History"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-nvi-arqueologica-cuero-europeo-vinocafe--3644?srsltid=AfmBOop4EjdAWITZ2Wa8cNaGQKNIepNapnL9Bx663ODZX6V3LtQb1OYP",
+            "image_url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1348085839i/13799723.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_035"
+        },
+        {
+            "title": "Biblia de estudio del diario vivir RVR60",
+            "authors": [
+                "Tyndale"
+            ],
+            "year": 2017,
+            "publisher": "Tyndale",
+            "language": "Spanish",
+            "isbn": "9781496411259",
+            "pages": 2224,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://sites.tyndale.com/ntv/biblia-de-estudio-de-diario-vivir.html",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/large/33728.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_036"
+        },
+        {
+            "title": "NLT Illustrated Study Bible",
+            "authors": [
+                "Tyndale House Publishers"
+            ],
+            "year": 2015,
+            "publisher": "Tyndale House Publishers",
+            "language": "English",
+            "isbn": "9781496402042",
+            "pages": 2600,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible",
+                "iilustrated"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.christianbook.com/nlt-illustrated-study-bible-leather-brown/9781496402059/pd/402059?srsltid=AfmBOopJcYcRkFfL7lV9XLnNVE8WzLZqp-1jFaftk2xu3CK5qAIGW57U",
+            "image_url": "https://m.media-amazon.com/images/I/71RNy-+JwvL._AC_UF1000,1000_QL80_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_037"
+        },
+        {
+            "title": "Biblia de Estudio Plenitud",
+            "authors": [
+                "Zondervan"
+            ],
+            "year": 1994,
+            "publisher": "Vida",
+            "language": "Spanish",
+            "isbn": "9780899222790",
+            "pages": 1920,
+            "categories": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Study Bible"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-plenitud-tela--3202?srsltid=AfmBOooeq5DA22wXGL1CG3dxi4egmQGlvD7_ixyifwdhyMV_nvwV7DX2",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/large/3202.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_038"
+        },
+        {
+            "title": "Nueva Concordancia Strong Exhaustiva",
+            "authors": [
+                "James Strong"
+            ],
+            "year": 2002,
+            "publisher": "Grupo Nelson",
+            "language": "Spanish",
+            "isbn": "9780899223827",
+            "pages": 1536,
+            "categories": [
+                "Study"
+            ],
+            "tags": [
+                "Greek",
+                "Hebrew",
+                "Study",
+                "Bible",
+                "Topics",
+                "Religion"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/nueva-concordancia-strong-james-strong-214?srsltid=AfmBOopW8KqKfEVl4SfxkZaQR-E3AFSeWF1wQ7F79BnyVJGCs5GzZJgs",
+            "image_url": "https://m.media-amazon.com/images/I/916Suk0pGHL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_039"
+        },
+        {
+            "title": "Biblia de estudio Nelson",
+            "authors": [
+                "Rvr 1960 Staff"
+            ],
+            "year": 2014,
+            "publisher": "Grupo Nelson",
+            "language": "Spanish",
+            "isbn": "9781602559042",
+            "pages": 2224,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-de-estudio-nelson--9544?srsltid=AfmBOorJhl8ZayaakNxRceJUn_gbQdhbj3aQuYwhNHFAYUX4E96pwwZR",
+            "image_url": "https://static.clccolombia.com/_CLCColombia/images/products/original/9544.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_040"
+        },
+        {
+            "title": "Biblia RVR 1960 de Estudio Holman",
+            "authors": [
+                "B&H Español Editorial Staff"
+            ],
+            "year": 2014,
+            "publisher": "B&H Español",
+            "language": "Spanish",
+            "isbn": "9781433601798",
+            "pages": 2336,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Study Bible",
+                "Religion",
+                "Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://vidalibros.com.co/products/rvr-1960-biblia-de-estudio-holman-chocolate-terracota-simil-piel",
+            "image_url": "https://librerialevitico.com/cdn/shop/products/biblia-rvr1960-de-estudio-holman-terracota-simil-piel-cindice-280287.jpg?v=1742248219",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_041"
+        },
+        {
+            "title": "Biblia de estudio Swindoll",
+            "authors": [
+                "Charles R. Swindoll"
+            ],
+            "year": 2021,
+            "publisher": "Tyndale House Publishers",
+            "language": "Spanish",
+            "isbn": "9781496428615",
+            "pages": 2016,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-de-estudio-swindoll-ntv-tapa-dura-azul-tapa-dura-9781496428615?srsltid=AfmBOoqPzf78tITafiC4XnKV06asV7-nYIU8WzeLef_q6oBhvkkswiBX",
+            "image_url": "https://m.media-amazon.com/images/I/81ZzmXXnjtL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_042"
+        },
+        {
+            "title": "Biblia de estudio MacArthur",
+            "authors": [
+                "John MacArthur"
+            ],
+            "year": 2011,
+            "publisher": "Vida",
+            "language": "Spanis",
+            "isbn": "9781602552951",
+            "pages": 2112,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Bible",
+                "Religion",
+                "Study Bible"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-de-estudio-macarthur-grupo-nelson-4455?srsltid=AfmBOore-5wowJO8RN5s6-Nc3-cPQmA1FxBS_ga_7xvxM1Oz9lWAKz8x",
+            "image_url": "https://dcdn-us.mitiendanube.com/stores/001/240/337/products/bi-macarthur3-21-ec5a66ce0d7be2cee016409645495225-640-0.webp",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_043"
+        },
+        {
+            "title": "Biblia de referencia Thompson RVR 1960",
+            "authors": [
+                "Zondervan"
+            ],
+            "year": 2013,
+            "publisher": "Vida",
+            "language": "Spanish",
+            "isbn": "9780829768312",
+            "pages": 1856,
+            "categories": [
+                "Bible",
+                "Study Bible"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Study Bible",
+                "Topics"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/biblias/biblia-estudio-thompson?srsltid=AfmBOorsDSbVLHWrpo5e7FoPmyFn2ENud2j3i2FCBoI4AMqMcn64keLF",
+            "image_url": "https://m.media-amazon.com/images/I/91ttFkFtyUL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_044"
+        },
+        {
+            "title": "La Biblia para la Predicación RVR60",
+            "authors": [
+                "Bible Society of Brazil"
+            ],
+            "year": 2020,
+            "publisher": "American Bible Society",
+            "language": "Spanish",
+            "isbn": "9781598774450",
+            "pages": 1408,
+            "categories": [
+                "Bible",
+                "Study"
+            ],
+            "tags": [
+                "Religion",
+                "Bible"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/biblia-de-la-predicacinrvrtamao85-piel-especialcafe--17737?srsltid=AfmBOorjy5qNZQUBoTbB_qBe2OzXy9zm82XvelZuszwFV5fssNcM7WNq",
+            "image_url": "https://librerialuzyverdad.co/wp-content/uploads/2022/12/Biblia-Para-La-Predicacion-Negra-Cremallera-Tamano-86-1.webp",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_045"
+        },
+        {
+            "title": "Comentario Bíblico Matthew Henry",
+            "authors": [
+                "Matthew Henry"
+            ],
+            "year": 2013,
+            "publisher": "CLIE",
+            "language": "Spanish",
+            "isbn": "9788482678207",
+            "pages": 2016,
+            "categories": [
+                "Commentary"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Commentary",
+                "Study"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/nuevo-comentario-matthew-henry-13-tomos-en-1-matthew-henry-10316?srsltid=AfmBOop4o5jbvAyeC_XxbAajVdCSMqPO7mZk9dV-hekL3oF5gffQ69BZ",
+            "image_url": "https://m.media-amazon.com/images/I/81krDdSa+oL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_046"
+        },
+        {
+            "title": "Comentario Biblico Bruce Antiguo y Nuevo Testamento",
+            "authors": [
+                "Bruce"
+            ],
+            "year": 1900,
+            "publisher": "Peniel",
+            "language": "Spanish",
+            "isbn": "9789875576124",
+            "pages": 1560,
+            "categories": [
+                "Commentary"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Commentary",
+                "New Testament",
+                "Old Testament",
+                "Theology"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/comentario-biblico-bruce?srsltid=AfmBOooA_4XYeh23SvS4pzn83TGa3neZ6eje3NuHjhjh4mS_snuO529k",
+            "image_url": "https://m.media-amazon.com/images/I/71pAHTFjUpL._SL1200_.jpg",
+            "notes": "",
+            "date_added": "2026-04-07",
+            "date_read": "",
+            "id": "book_047"
         }
     ]
 }
