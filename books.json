@@ -413,7 +413,7 @@
                 "Matplotlib"
             ],
             "status": "unread",
-            "rating": 3,
+            "rating": 5,
             "source": "purchased",
             "url": "https://edicionesdelau.com/producto/aplicaciones-graficas-con-python-3/",
             "image_url": "https://edicionesdelau.com/wp-content/uploads/2018/10/Aplicaciones-graficas-con-phyton-scaled.jpg.webp",
@@ -472,7 +472,7 @@
                 "Deep learning"
             ],
             "status": "unread",
-            "rating": 3,
+            "rating": 5,
             "source": "purchased",
             "url": "https://edicionesdelau.com/producto/machine-learning-y-deep-learning-usando-python-scikit-y-keras/",
             "image_url": "https://edicionesdelau.com/wp-content/uploads/2021/02/Machine-Learniing_DIG.jpg.webp",
@@ -643,7 +643,7 @@
                 "Programming Languages"
             ],
             "status": "unread",
-            "rating": 3,
+            "rating": 5,
             "source": "purchased",
             "url": "https://www.alpha-editorial.com/E-book/9789587784008/Aprende+A+Programar+Con+Kotlin",
             "image_url": "https://contentv2.tap-commerce.com/cover/original/9789587784008_1.jpg?id_com=1164",
@@ -1227,7 +1227,7 @@
             ],
             "year": 2011,
             "publisher": "Vida",
-            "language": "Spanis",
+            "language": "Spanish",
             "isbn": "9781602552951",
             "pages": 2112,
             "categories": [
@@ -1366,6 +1366,358 @@
             "date_added": "2026-04-07",
             "date_read": "",
             "id": "book_047"
+        },
+        {
+            "title": "Nuevo diccionario bíblico ilustrado",
+            "authors": [
+                "Samuel Vila",
+                "Santiago Escuain"
+            ],
+            "year": 2013,
+            "publisher": "CLIE",
+            "language": "Spanish",
+            "isbn": "9788482678214",
+            "pages": 1264,
+            "categories": [
+                "Dictionary"
+            ],
+            "tags": [
+                "Religion",
+                "Bible",
+                "Dictionary"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.clccolombia.com/product/nuevo-diccionario-biblico-ilustradonueva-presentacion--12472?srsltid=AfmBOoq85XRf6ZsReiQFXhnuE1SwdeJiqxHHDvaPhNfL92cQCFRKRo2f",
+            "image_url": "https://m.media-amazon.com/images/I/71JlkUT6lcL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_048"
+        },
+        {
+            "title": "Diccionario Bíblico Ilustrado Holman",
+            "authors": [
+                "B&H Español Editorial Staff"
+            ],
+            "year": 2017,
+            "publisher": "B&H Español",
+            "language": "Spanish",
+            "isbn": "9781462765515",
+            "pages": 1744,
+            "categories": [
+                "Dictionary"
+            ],
+            "tags": [
+                "Bible",
+                "Dictionary",
+                "Study"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.bhpublishinggroup.com/product/diccionario-biblico-ilustrado-holman-2/",
+            "image_url": "https://m.media-amazon.com/images/I/911EyE36zmL._SL1500_.jpg",
+            "notes": "Galardonado con el Premio SEPA (Asociación de Editoriales Evangélicas) al mejor Diccionario Bíblico 2009, 2011, 2012, 2013, 2014 y 2015, líder en el mercado",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_049"
+        },
+        {
+            "title": "The Illustrated Encyclopedia of Warfare: From Ancient Egypt to Iraq",
+            "authors": [
+                "DK",
+                "Saul David"
+            ],
+            "year": 2012,
+            "publisher": "DK",
+            "language": "English",
+            "isbn": "9780756695484",
+            "pages": 512,
+            "categories": [
+                "Encyclopedia",
+                "DK",
+                "History"
+            ],
+            "tags": [
+                "History",
+                "War",
+                "Illustrated",
+                "Encyclopedia"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.amazon.com/Illustrated-Encyclopedia-Warfare-Ancient-Egypt/dp/0756695481",
+            "image_url": "https://m.media-amazon.com/images/I/61tX4fobeWL._SL1200_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_050"
+        },
+        {
+            "title": "El cuerpo humano: Una guía ilustrada de sus estructuras, funciones y trastornos",
+            "authors": [
+                "Steve Parker"
+            ],
+            "year": 256,
+            "publisher": "El Tiempo",
+            "language": "Spanish",
+            "isbn": "9789587062274",
+            "pages": 2009,
+            "categories": [
+                "Encyclopedia",
+                "Human Body"
+            ],
+            "tags": [
+                "Encyclopedia",
+                "Human Body",
+                "Illustrated"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "gift",
+            "url": "https://books.google.com.co/books/about/Cuerpo_humano.html?id=qsLxjgEACAAJ&redir_esc=y",
+            "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_634598-MCO54963856795_042023-F.webp",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_051"
+        },
+        {
+            "title": "Remarkable Diaries: The World's Greatest Diaries, Journals, Notebooks, & Letters",
+            "authors": [
+                "DK"
+            ],
+            "year": 2020,
+            "publisher": "DK",
+            "language": "English",
+            "isbn": "9780744020434",
+            "pages": 256,
+            "categories": [
+                "Encyclopedia"
+            ],
+            "tags": [
+                "Encyclopedia",
+                "Illustrated"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://dk.com/en-us/products/9780744020434-remarkable-diaries",
+            "image_url": "https://dk.com/cdn/shop/files/getfile_2c3f9f95-7661-4af7-9da2-b7984e26f47b.jpg?v=1759844653&width=1200",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_052"
+        },
+        {
+            "title": "History of the World Map by Map",
+            "authors": [
+                "DK"
+            ],
+            "year": 2018,
+            "publisher": "DK",
+            "language": "English",
+            "isbn": "9781465475855",
+            "pages": 440,
+            "categories": [
+                "Encyclopedia",
+                "History"
+            ],
+            "tags": [
+                "Illustrated",
+                "Encyclopedia",
+                "History",
+                "Dk"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://dk.com/products/9780241601006-history-of-the-world-map-by-map",
+            "image_url": "https://m.media-amazon.com/images/I/81zVkXFppTL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_053"
+        },
+        {
+            "title": "El gran Libro del cuerpo Humano la Guia Visual Definitiva",
+            "authors": [
+                "Dr. Alice Roberts"
+            ],
+            "year": 2018,
+            "publisher": "Dk",
+            "language": "Spanish",
+            "isbn": "9781465478788",
+            "pages": 528,
+            "categories": [
+                "Encyclopedia",
+                "Human Body"
+            ],
+            "tags": [
+                "Encyclopedia",
+                "Illustrated",
+                "Human Body",
+                "Study"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://books.google.com.co/books/about/El_gran_libro_del_cuerpo_humano_The_Comp.html?id=IpWPEAAAQBAJ&redir_esc=y",
+            "image_url": "https://m.media-amazon.com/images/I/815BDPOWLLL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_054"
+        },
+        {
+            "title": "World War I: The Definitive Visual History",
+            "authors": [
+                "DK"
+            ],
+            "year": 2018,
+            "publisher": "DK",
+            "language": "English",
+            "isbn": "9781465470010",
+            "pages": 372,
+            "categories": [
+                "Encyclopedia",
+                "History"
+            ],
+            "tags": [
+                "Encyclopedia",
+                "History",
+                "Illustrated",
+                "War",
+                "WWI"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://dk.com/products/world-war-i",
+            "image_url": "https://m.media-amazon.com/images/I/81303Nk7MSL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_055"
+        },
+        {
+            "title": "World War II: The Definitive Visual History from Blitzkrieg to the Atom Bomb",
+            "authors": [
+                "DK"
+            ],
+            "year": 2015,
+            "publisher": "DK",
+            "language": "English",
+            "isbn": "9781465436023",
+            "pages": 372,
+            "categories": [
+                "Encyclopedia",
+                "History"
+            ],
+            "tags": [
+                "Illustrated",
+                "History",
+                "War",
+                "WWII",
+                "Encyclopedia"
+            ],
+            "status": "read",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://dk.com/products/9780241525685-world-war-ii-the-definitive-visual-guide?_pos=7&_psq=World+War+ii&_ss=e&_v=1.0",
+            "image_url": "https://m.media-amazon.com/images/I/81BykdgDlvL._SL1500_.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_056"
+        },
+        {
+            "title": "Ciencia La Guía Visual Definitiva",
+            "authors": [
+                "Dk",
+                "Adam Hart Davis"
+            ],
+            "year": 2009,
+            "publisher": "Dk",
+            "language": "English",
+            "isbn": "9781409344124",
+            "pages": 512,
+            "categories": [
+                "Encyclopedia",
+                "Science"
+            ],
+            "tags": [
+                "Illustrated",
+                "Dk",
+                "Encyclopedia",
+                "Science"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.mercadolibre.com.co/ciencia-la-guia-visual-definitiva/up/MCOU2432916463",
+            "image_url": "https://http2.mlstatic.com/D_NQ_NP_927800-MCO73075551370_112023-O.webp",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_057"
+        },
+        {
+            "title": "Océano. El último rincón del mundo salvaje al descubrimiento",
+            "authors": [],
+            "year": 2022,
+            "publisher": "DK",
+            "language": "Spanish",
+            "isbn": "9781409344148",
+            "pages": 514,
+            "categories": [
+                "Encyclopedia"
+            ],
+            "tags": [
+                "Dk",
+                "Illustrated",
+                "Ocean",
+                "Animals"
+            ],
+            "status": "reading",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.buscalibre.com.mx/libro-oceano-el-ultimo-rincon-del-mundo-salvaje-al-descubrimiento/9781409344148/p/50590034",
+            "image_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/8b/6e/8b6e0a623e2726c895790ba7c33170e1.jpg",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_058"
+        },
+        {
+            "title": "El Hombre que Calculaba",
+            "authors": [
+                "Malba Tahan"
+            ],
+            "year": 2021,
+            "publisher": "Editorial Skla",
+            "language": "Spanish",
+            "isbn": "978-9587231373",
+            "pages": 243,
+            "categories": [
+                "Classic"
+            ],
+            "tags": [
+                "Classic",
+                "Math"
+            ],
+            "status": "unread",
+            "rating": 5,
+            "source": "purchased",
+            "url": "https://www.librerianacional.com/el-hombre-que-calculaba-356844/p?srsltid=AfmBOooqfHjt-eH201FAybuIxJuM8OJLd72a3X_9XfqORNKQlBpU6Xva",
+            "image_url": "https://http2.mlstatic.com/D_Q_NP_624768-MCO50680926746_072022-O.webp",
+            "notes": "",
+            "date_added": "2026-04-18",
+            "date_read": "",
+            "id": "book_059"
         }
     ]
 }
